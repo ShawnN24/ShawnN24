@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer science and space engineering 
 - 🌱 I’m currently learning java, javascrpit, html/ css
 - 💞️ I’m looking to collaborate on any java, javascript, or html/ css projects
-- 📫 How to reach me 
+- 📫 How to reach me sn161838@gmail.com
 
 <!---
 ShawnN24/ShawnN24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
